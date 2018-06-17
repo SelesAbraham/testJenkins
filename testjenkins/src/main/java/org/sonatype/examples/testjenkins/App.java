@@ -8,9 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        Systembvcfdvbbcvcvsdds
-        gsdfxbbvbvbvbZXAsaSSDASDDSA
-        hello rrere
-        
+        System.out.println("Test jenkins");
     }
 }

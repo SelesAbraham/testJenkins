@@ -7,16 +7,7 @@ package org.sonatype.examples.testjenkins;
 public class App 
 {
     public static void main( String[] args )
-    {
-        System.out.println("Test jenkins");
-        System.out.println("webhook check");
-        
-        //
-        s
-        s
-        s
-        
-        s
+    testt
         
     }
 
